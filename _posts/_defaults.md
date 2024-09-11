@@ -1,5 +1,5 @@
 ---
-title:
+title: Jaesol Shin
 type: major
 ---
 
