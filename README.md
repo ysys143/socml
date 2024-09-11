@@ -1,5 +1,7 @@
 # Edition [ LEGACY TEMPLATE NO LONGER MAINTAINED ]
 
+이건 또 언제 다 꾸미냐...
+
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
 
