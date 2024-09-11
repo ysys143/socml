@@ -1,18 +1,18 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: 신재솔의 블로그
+url: "https://ysys143.github.io/socml"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: 공부한 내용을 정리하기 위한 블로그입니다.
 author:
-  name:
-  email:
+  name: Jaesol Shin
+  email: ysys143@naver.com
   twitter: # twitter username without the @ symbol
 social:
   name: Edition Template
